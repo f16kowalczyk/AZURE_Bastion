@@ -17,3 +17,13 @@ Close all and use Bastion
 Next create user and password
 
 ![alt text](image-1.png)
+
+Next type login and password
+
+![alt text](image-2.png)
+
+now you are login
+
+![alt text](image-3.png)
+
+For connect use rdp and ip this machine or use web browser.
